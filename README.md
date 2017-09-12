@@ -1,3 +1,4 @@
 # hello-world
-Hello world /n
+Hello world
+
 My name is Genaya
